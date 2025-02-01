@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
