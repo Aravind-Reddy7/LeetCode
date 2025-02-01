@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
