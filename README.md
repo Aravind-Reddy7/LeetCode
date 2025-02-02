@@ -15,6 +15,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Database
 |  |
 | ------- |
