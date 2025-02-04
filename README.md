@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
