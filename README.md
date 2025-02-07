@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -64,4 +65,8 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
