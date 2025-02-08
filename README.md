@@ -32,6 +32,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
