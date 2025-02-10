@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -24,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -44,6 +46,7 @@
 | [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
@@ -103,6 +107,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
