@@ -26,6 +26,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
