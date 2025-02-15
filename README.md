@@ -52,6 +52,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Simulation
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Trie
