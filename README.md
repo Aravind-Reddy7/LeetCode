@@ -32,6 +32,7 @@
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1532-reformat-the-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1532-reformat-the-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
