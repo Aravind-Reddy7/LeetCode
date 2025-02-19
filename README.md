@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
