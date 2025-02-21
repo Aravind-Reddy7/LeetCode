@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -121,6 +124,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -166,4 +170,8 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
