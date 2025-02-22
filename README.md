@@ -39,6 +39,7 @@
 | [0541-reverse-string-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1532-reformat-the-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1532-reformat-the-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
