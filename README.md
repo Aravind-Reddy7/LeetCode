@@ -11,6 +11,7 @@
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
@@ -38,6 +39,7 @@
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -71,6 +73,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
