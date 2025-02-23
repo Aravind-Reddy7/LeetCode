@@ -58,6 +58,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0176-second-highest-salary) |
 | [0596-classes-more-than-5-students](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0620-not-boring-movies) |
