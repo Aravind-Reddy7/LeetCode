@@ -21,6 +21,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -30,6 +31,7 @@
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -93,6 +95,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
