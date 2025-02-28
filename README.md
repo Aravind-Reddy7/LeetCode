@@ -208,4 +208,20 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
