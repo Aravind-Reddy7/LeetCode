@@ -31,6 +31,7 @@
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
