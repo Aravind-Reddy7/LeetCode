@@ -32,6 +32,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
