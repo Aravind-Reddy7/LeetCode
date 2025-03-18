@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -90,6 +91,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
