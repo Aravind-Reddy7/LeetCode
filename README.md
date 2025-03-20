@@ -110,6 +110,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -142,6 +143,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
