@@ -113,6 +113,7 @@
 | [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -260,4 +261,8 @@
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
