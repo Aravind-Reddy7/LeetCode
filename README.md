@@ -38,6 +38,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -112,6 +113,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3463-alternating-groups-i) |
