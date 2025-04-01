@@ -32,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -281,12 +282,15 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
