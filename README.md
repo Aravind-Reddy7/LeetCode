@@ -117,6 +117,7 @@
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -173,6 +174,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
