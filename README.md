@@ -115,6 +115,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
@@ -138,6 +139,7 @@
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
