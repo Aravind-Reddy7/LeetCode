@@ -260,12 +260,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -284,6 +286,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Geometry
 |  |
@@ -313,4 +316,8 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
