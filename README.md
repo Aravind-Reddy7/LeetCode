@@ -265,6 +265,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -276,6 +277,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -288,6 +290,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -302,6 +305,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Geometry
 |  |
@@ -335,4 +339,5 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
