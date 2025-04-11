@@ -40,6 +40,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -314,6 +315,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Sliding Window
