@@ -105,6 +105,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1656-count-good-triplets](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -323,6 +324,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
