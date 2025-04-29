@@ -32,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
+| [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -140,6 +141,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -170,6 +172,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
