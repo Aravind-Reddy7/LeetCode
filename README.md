@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
