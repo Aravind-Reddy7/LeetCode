@@ -77,6 +77,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -132,6 +133,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
+| [3194-find-words-containing-character](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
