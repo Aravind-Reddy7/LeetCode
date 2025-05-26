@@ -92,6 +92,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -149,6 +150,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -257,6 +259,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -384,6 +387,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 ## Binary Search Tree
@@ -393,4 +397,8 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
