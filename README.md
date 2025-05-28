@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -230,6 +231,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
