@@ -21,6 +21,7 @@
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -66,6 +67,7 @@
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1532-reformat-the-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1532-reformat-the-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -220,6 +222,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
