@@ -17,6 +17,7 @@
 | [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -66,6 +67,7 @@
 | [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -263,6 +265,7 @@
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0338-counting-bits) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -387,6 +390,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [3463-alternating-groups-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Brainteaser
 |  |
