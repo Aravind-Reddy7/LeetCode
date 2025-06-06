@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
+| [0263-ugly-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
