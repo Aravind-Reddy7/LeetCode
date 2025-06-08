@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
@@ -415,6 +418,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0264-ugly-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 ## Binary Search Tree
