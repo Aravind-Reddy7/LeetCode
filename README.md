@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0944-smallest-range-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -120,6 +121,7 @@
 | [0822-unique-morse-code-words](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0944-smallest-range-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0944-smallest-range-i) |
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1217-relative-sort-array) |
