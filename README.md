@@ -73,6 +73,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1078-remove-outermost-parentheses](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
