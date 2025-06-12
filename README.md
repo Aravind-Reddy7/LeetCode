@@ -164,6 +164,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3723-sum-of-good-numbers) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
