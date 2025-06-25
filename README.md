@@ -27,6 +27,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -84,6 +85,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -141,6 +143,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -242,6 +245,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
