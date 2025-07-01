@@ -97,6 +97,7 @@
 | [3194-find-words-containing-character](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
