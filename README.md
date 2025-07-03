@@ -59,6 +59,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
@@ -236,6 +237,7 @@
 | [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
@@ -448,4 +451,5 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
