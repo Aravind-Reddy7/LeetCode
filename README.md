@@ -139,6 +139,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1656-count-good-triplets](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1755-defuse-the-bomb](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1755-defuse-the-bomb](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3463-alternating-groups-i](https://github.com/Aravind-Reddy7/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Brainteaser
 |  |
