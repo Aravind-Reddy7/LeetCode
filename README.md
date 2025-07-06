@@ -32,6 +32,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -154,6 +155,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -207,6 +209,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -236,6 +239,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aravind-Reddy7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -279,6 +283,7 @@
 | [0455-assign-cookies](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0979-di-string-match) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -315,6 +320,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/0264-ugly-number-ii) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
