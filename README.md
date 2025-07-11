@@ -94,6 +94,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2881-split-strings-by-separator](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -155,6 +156,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/Aravind-Reddy7/LeetCode/tree/master/2486-most-frequent-even-element) |
